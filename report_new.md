@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Credit Card Number Validator] Валидный номер карты, содержащий больше 16 символов, определяется как не валидный 
-https://github.com/EkaterinaSkobeleva/iqa16_introdutioninjava/issues/4
+https://github.com/EkaterinaSkobeleva/11JavaHomeworkEx1/issues/1
 * [Credit Card Number Validator] Валидный номер карты, содержащий меньше 16 символов, определяется как не валидный 
-https://github.com/EkaterinaSkobeleva/iqa16_introdutioninjava/issues/5
+https://github.com/EkaterinaSkobeleva/11JavaHomeworkEx1/issues/2
 
 
 
